@@ -1,10 +1,10 @@
-# Open Source & Licences Badges [![Gitter Chat](https://badges.gitter.im/frapsoft/frapsoft.svg)](https://gitter.im/frapsoft/frapsoft/) [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+# Open Source & Licences Badges [![Gitter Chat](https://badges.gitter.im/frapsoft/frapsoft.svg)](https://gitter.im/frapsoft/frapsoft/) [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/TwoPizza9621536/open-source-badges/)
 
 Badges to show your love for Open Source and the Community.
 
 ### OpenSource Badges
 
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)  [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)  [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/TwoPizza9621536/open-source-badges/)  [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/TwoPizza9621536/open-source-badges/)  [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/TwoPizza9621536/open-source-badges/)
 
 ### Licence Badges
 
@@ -14,13 +14,13 @@ Badges to show your love for Open Source and the Community.
 
 ### Shell (NEW!)
 
-[![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/TwoPizza9621536/open-source-badges/)
 
 ---
 
-You may also like the [TypeScript Badges](https://github.com/ellerbrock/typescript-badges/) for Web Developers.
+You may also like the [TypeScript Badges](https://github.com/TwoPizza9621536/typescript-badges/) for Web Developers.
 
-[![TypeScript](https://badges.frapsoft.com/typescript/awesome/typescript.png?v=103)](https://github.com/ellerbrock/typescript-badges/) [![TypeScript](https://badges.frapsoft.com/typescript/code/typescript.png?v=103)](https://github.com/ellerbrock/typescript-badges/) [![TypeScript](https://badges.frapsoft.com/typescript/love/typescript.png?v=103)](https://github.com/ellerbrock/typescript-badges/) [![TypeScript](https://badges.frapsoft.com/typescript/version/typescript-next.svg?v=103)](https://github.com/ellerbrock/typescript-badges/)
+[![TypeScript](https://badges.frapsoft.com/typescript/awesome/typescript.png?v=103)](https://github.com/TwoPizza9621536/typescript-badges/) [![TypeScript](https://badges.frapsoft.com/typescript/code/typescript.png?v=103)](https://github.com/TwoPizza9621536/typescript-badges/) [![TypeScript](https://badges.frapsoft.com/typescript/love/typescript.png?v=103)](https://github.com/TwoPizza9621536/typescript-badges/) [![TypeScript](https://badges.frapsoft.com/typescript/version/typescript-next.svg?v=103)](https://github.com/TwoPizza9621536/typescript-badges/)
 
 ---
 
@@ -29,45 +29,45 @@ You may also like the [TypeScript Badges](https://github.com/ellerbrock/typescri
 ## SVG
 Default Size: 120x20px
 
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/TwoPizza9621536/open-source-badges/)
 
 ```
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/TwoPizza9621536/open-source-badges/)
 ```
 
 ## PNG in different sizes
 
 Default Size: 120x20px
 
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/TwoPizza9621536/open-source-badges/)
 
 ```
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/TwoPizza9621536/open-source-badges/)
 ```
 
 
 Size: 150x22px
 
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source-150x25.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source-150x25.png?v=103)](https://github.com/TwoPizza9621536/open-source-badges/)
 
 ```
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source-150x25.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source-150x25.png?v=103)](https://github.com/TwoPizza9621536/open-source-badges/)
 ```
 
 Size: 175x29px
 
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source-175x29.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source-175x29.png?v=103)](https://github.com/TwoPizza9621536/open-source-badges/)
 
 ```
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source-175x29.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source-175x29.png?v=103)](https://github.com/TwoPizza9621536/open-source-badges/)
 ```
 
 Size: 200x33px
 
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source-200x33.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source-200x33.png?v=103)](https://github.com/TwoPizza9621536/open-source-badges/)
 
 ```
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source-200x33.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source-200x33.png?v=103)](https://github.com/TwoPizza9621536/open-source-badges/)
 ```
 
 # Open Source v2
@@ -75,46 +75,46 @@ Size: 200x33px
 ## SVG
 Default Size: 120x20px
 
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/TwoPizza9621536/open-source-badges/)
 
 ```
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/TwoPizza9621536/open-source-badges/)
 ```
 
 
 ## PNG
 Default Size: 120x20px
 
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/TwoPizza9621536/open-source-badges/)
 
 ```
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/TwoPizza9621536/open-source-badges/)
 ```
 
 ## PNG in different sizes
 
 Size: 150x22px
 
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-150x25.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-150x25.png?v=103)](https://github.com/TwoPizza9621536/open-source-badges/)
 
 ```
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-150x25.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-150x25.png?v=103)](https://github.com/TwoPizza9621536/open-source-badges/)
 ```
 
 Size: 175x29px
 
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-175x29.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-175x29.png?v=103)](https://github.com/TwoPizza9621536/open-source-badges/)
 
 ```
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-175x29.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-175x29.png?v=103)](https://github.com/TwoPizza9621536/open-source-badges/)
 ```
 
 Size: 200x33px
 
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-200x33.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-200x33.png?v=103)](https://github.com/TwoPizza9621536/open-source-badges/)
 
 ```
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-200x33.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-200x33.png?v=103)](https://github.com/TwoPizza9621536/open-source-badges/)
 ```
 
 # Open Source v3
@@ -122,46 +122,46 @@ Size: 200x33px
 ## SVG
 Default Size: 120x20px
 
-[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/TwoPizza9621536/open-source-badges/)
 
 ```
-[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/TwoPizza9621536/open-source-badges/)
 ```
 
 
 ## PNG
 Default Size: 120x20px
 
-[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/TwoPizza9621536/open-source-badges/)
 
 ```
-[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/TwoPizza9621536/open-source-badges/)
 ```
 
 ## PNG in different sizes
 
 Size: 150x22px
 
-[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source-150x25.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source-150x25.png?v=103)](https://github.com/TwoPizza9621536/open-source-badges/)
 
 ```
-[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source-150x25.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source-150x25.png?v=103)](https://github.com/TwoPizza9621536/open-source-badges/)
 ```
 
 Size: 175x29px
 
-[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source-175x29.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source-175x29.png?v=103)](https://github.com/TwoPizza9621536/open-source-badges/)
 
 ```
-[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source-175x29.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source-175x29.png?v=103)](https://github.com/TwoPizza9621536/open-source-badges/)
 ```
 
 Size: 200x33px
 
-[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source-200x33.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source-200x33.png?v=103)](https://github.com/TwoPizza9621536/open-source-badges/)
 
 ```
-[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source-200x33.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source-200x33.png?v=103)](https://github.com/TwoPizza9621536/open-source-badges/)
 ```
 
 # MIT Licence
@@ -263,47 +263,37 @@ Size: 175x39px
 ## PNG
 Default Size: 120x20px
 
-[![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/TwoPizza9621536/open-source-badges/)
 
 ```
-[![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/TwoPizza9621536/open-source-badges/)
 ```
 
 ## PNG in different sizes
 
 Size: 150x25px
 
-[![Bash Shell](https://badges.frapsoft.com/bash/v1/bash-150x25.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Bash Shell](https://badges.frapsoft.com/bash/v1/bash-150x25.png?v=103)](https://github.com/TwoPizza9621536/open-source-badges/)
 
 ```
-[![Bash Shell](https://badges.frapsoft.com/bash/v1/bash-150x25.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Bash Shell](https://badges.frapsoft.com/bash/v1/bash-150x25.png?v=103)](https://github.com/TwoPizza9621536/open-source-badges/)
 ```
 
 Size: 175x39px
 
-[![Bash Shell](https://badges.frapsoft.com/bash/v1/bash-175x30.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Bash Shell](https://badges.frapsoft.com/bash/v1/bash-175x30.png?v=103)](https://github.com/TwoPizza9621536/open-source-badges/)
 
 ```
-[![Bash Shell](https://badges.frapsoft.com/bash/v1/bash-175x30.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Bash Shell](https://badges.frapsoft.com/bash/v1/bash-175x30.png?v=103)](https://github.com/TwoPizza9621536/open-source-badges/)
 ```
 
 Size: 200x34px
 
-[![Bash Shell](https://badges.frapsoft.com/bash/v1/bash-200x34.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Bash Shell](https://badges.frapsoft.com/bash/v1/bash-200x34.png?v=103)](https://github.com/TwoPizza9621536/open-source-badges/)
 
 ```
-[![Bash Shell](https://badges.frapsoft.com/bash/v1/bash-200x34.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Bash Shell](https://badges.frapsoft.com/bash/v1/bash-200x34.png?v=103)](https://github.com/TwoPizza9621536/open-source-badges/)
 ```
-
-### Contact / Social Media
-
-*Get the latest News about Web Development, Open Source, Tooling, Server & Security*
-
-[![Twitter](https://github.frapsoft.com/social/twitter.png)](https://twitter.com/frapsoft/)
-[![Facebook](https://github.frapsoft.com/social/facebook.png)](https://www.facebook.com/frapsoft/)
-[![Google+](https://github.frapsoft.com/social/google-plus.png)](https://plus.google.com/116540931335841862774)
-[![Gitter](https://github.frapsoft.com/social/gitter.png)](https://gitter.im/frapsoft/frapsoft/)
-[![Github](https://github.frapsoft.com/social/github.png)](https://github.com/ellerbrock/)
 
 ### Development by
 
